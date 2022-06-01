@@ -22,6 +22,8 @@ $art = $artigo->encontrarPorId($_GET['id']);
     <link rel="stylesheet" type="text/css" href="../style.css">
     <meta charset="UTF-8">
     <title>Editar Artigo</title>
+
+    <link rel="shortcut icon" href="../assets/logo.png" />
 </head>
 
 <body>
